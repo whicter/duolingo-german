@@ -76,29 +76,29 @@ It gets more complicated when it comes to abstract nouns, but we'll see about th
 
 
 ## Lesson 1
-der <font color=#ffc04c>Junge</font>  
-der <font color=#ffc04c>Mann</font>  
-der <font color=#ffc04c>Apfel</font>  
-die <font color=#ffc04c>Frau</font>   
+der <font color = #ffb732> Junge </font>  
+der <font color = #ffb732> Mann </font>  
+der <font color = #ffb732> Apfel </font>  
+die <font color = #ffb732> Frau </font>  
 
 
 
 ## Lesson 2
-das <font color=#ffc04c>Mädchen = the girl</font>   
+das <font color = #ffb732> Mädchen = the girl </font>  
 - Ein is for masculine and neuter words.
 e.g. Ich bin ein Kind. = I am a child.
 
-ein <font color=#ffc04c>Kind</font>  = a kid  
-das <font color=#ffc04c>Kind</font> 
+ein <font color = #ffb732> Kind </font>   = a kid
+das <font color = #ffb732> Kind </font>  
 
-Er ist ein Junge. = He is a boy.  
-Sie ist eine Frau.  
-Du bist ein Mann.  
+Er ist ein Junge. = He is a boy.
+Sie ist eine Frau.
+Du bist ein Mann.
 
 ## Lesson 3
-Er <font color=#ffc04c>isst</font>  = He eats / He is eating
+Er <font color = #ffb732> isst </font>   = He eats / He is eating
 
-- Verb: <font color=#ffc04c> **essen** </font>  
+- Verb: <font color = #ffb732> **essen** </font>  
 
 | Person | Present |
 | -------- | ------- |
@@ -113,7 +113,7 @@ Er <font color=#ffc04c>isst</font>  = He eats / He is eating
 ## Lesson 4
 Sie trinkt = She is drinking
 
-- Verb: <font color=#ffc04c> **trinken** </font>  
+- Verb: <font color = #ffb732>  **trinken**  </font>  
 
 | Person | Present |
 | --------- | ----------- |
@@ -137,7 +137,7 @@ A man sees a dog = Ein Mann sieht einen Hund.
 
 Du bist gut. = You are good
 
-Verb: <font color=#ffc04c> **sein** </font>  
+Verb: <font color = #ffb732> **sein** </font>  
 
 | Person | Present |
 | --------- | ----------- |

@@ -42,28 +42,29 @@ In your own dialect, you might prefer to use something like y'all or you guys wh
 
 ## Lesson 1
 Ihr = you or her
-- Ihr can mean plural you: 
-e.g., Ihr seid Schüler = You are students 
-- or her: Er spricht mit ihr = He is talking to her
+- Ihr can mean plural you:  
+e.g., Ihr seid Schüler = You are students
+- or her:  
+e.g., Er spricht mit ihr = He is talking to her
 
 
 ## Lesson 2
-die <font color=#ffc04c> Männer </font> = Plural form of Mann  
-die <font color=#ffc04c> Frauen</font>
+die <font color = #ffb732> Männer </font> = Plural form of Mann
+die <font color = #ffb732> Frauen </font>
 
 The plural article die
 > Use die for the with all plural words.
 
-die <font color=#ffc04c> Kinder </font>
+die <font color = #ffb732> Kinder </font>
 
 _**Sie: she or they?**_
 > sie can mean both she or they. The verb ending tells you which is meant: sie lernt = she learns vs. sie lernen = they learn.
 
 
 ## Lesson 3
-das <font color=#ffc04c> Buch = book </font>
+das <font color = #ffb732> Buch = book </font>
 
-- Verb: <font color=#ffc04c> **lesen** </font> = read
+- Verb: <font color = #ffb732> **lesen** </font> = read
 
 | Person | Present |
 | -------- | ------- |
@@ -76,4 +77,4 @@ das <font color=#ffc04c> Buch = book </font>
 
 
 ## Lesson 4
-die <font color=#ffc04c> Zeitung </font> = newspaper
+die <font color = #ffb732> Zeitung </font> = newspaper

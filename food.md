@@ -7,13 +7,13 @@ Having said that, the verb haben is sometimes used to describe physical conditio
 
 For instance, the German for I am hungry is Ich habe Hunger. You can think of it as having the condition of being hungry.
 
-Ich habe <font color=#ffc04c> Hunger </font>  = I am hungry
+Ich habe <font color = #ffb732> Hunger </font> = I am hungry
 
-Ich habe <font color=#ffc04c> Durst </font> = I am thirsty
+Ich habe <font color = #ffb732> Durst </font> = I am thirsty
 
-Sie hat <font color=#ffc04c> Recht </font> = She is right
+Sie hat <font color = #ffb732> Recht </font> = She is right
 
-Er hat <font color=#ffc04c> Angst </font> = He is afraid
+Er hat <font color = #ffb732> Angst </font> = He is afraid
 
 ### Mittagessen - lunch or dinner?
 
@@ -25,11 +25,11 @@ A compound word is a word that consists of two or more words. These are written 
 
 The gender of a compound noun is always **determined by its last element.** This shouldn't be too difficult to remember because the last element is always the most important one. All the previous elements merely describe the last element.
 
-die <font color=#ffc04c> Autobahn </font> (das Auto + die Bahn)
+die <font color = #ffb732> Autobahn </font> (das Auto + die Bahn)
 
-der <font color=#ffc04c> Orangensaft </font> (die Orange + der Saft)
+der <font color = #ffb732> Orangensaft </font> (die Orange + der Saft)
 
-das <font color=#ffc04c> Hundefutter </font> (der Hund + das Futter)
+das <font color = #ffb732> Hundefutter </font> (der Hund + das Futter)
 
 Sometimes, there's a connecting sound (Fugenlaut) between two elements. For instance, die Orange + der Saft becomes der Orangensaft, der Hund + das Futter becomes das Hundefutter, die Liebe + das Lied becomes das Liebeslied, and der Tag + das Gericht becomes das Tagesgericht.
 
@@ -46,45 +46,45 @@ In German, "Gemüse" is used as a mass noun. That means it's grammatically singu
 
 ## Lesson 1
 - **Substantiv**
-der <font color=#ffc04c> Tee </font> = tea  
-der <font color=#ffc04c> Fisch </font> = fish  
-das <font color=#ffc04c> Salz </font> = salt  
-die <font color=#ffc04c> Suppe </font> = soup  
-das <font color=#ffc04c> Mittagessen </font> = lunch  
-der <font color=#ffc04c> Kaffee </font> = coffee  
-das <font color=#ffc04c> Essen </font> = food  
-die <font color=#ffc04c> Pizza </font> = pizza  
-das <font color=#ffc04c> Eis </font> = ice cream  
+der <font color = #ffb732> Tee </font> = tea  
+der <font color = #ffb732> Fisch </font> = fish  
+das <font color = #ffb732> Salz </font> = salt  
+die <font color = #ffb732> Suppe </font> = soup  
+das <font color = #ffb732> Mittagessen </font> = lunch  
+der <font color = #ffb732> Kaffee </font> = coffee  
+das <font color = #ffb732> Essen </font> = food  
+die <font color = #ffb732> Pizza </font> = pizza  
+das <font color = #ffb732> Eis </font> = ice cream  
 
 - **Adjektiv**
-<font color=#ffc04c> Hunger </font> = hungury
+<font color = #ffb732> Hunger </font> = hungury
 
 
 ## Lesson 2
 - **Substantiv**
-das <font color=#ffc04c> Abendessen </font> = dinner  
-die <font color=#ffc04c> Schokolade </font> = chocolate  
-das <font color=#ffc04c> Obst </font> = fruit  
-das <font color=#ffc04c> Gemüse </font> = vegetables  
-der <font color=#ffc04c> Wein </font> = wine  
+das <font color = #ffb732> Abendessen </font> = dinner  
+die <font color = #ffb732> Schokolade </font> = chocolate  
+das <font color = #ffb732> Obst </font> = fruit  
+das <font color = #ffb732> Gemüse </font> = vegetables  
+der <font color = #ffb732> Wein </font> = wine  
 
 - **Adjektiv**
-<font color=#ffc04c> salzig </font> = salty  
-<font color=#ffc04c> süß </font> = sweet  
+<font color = #ffb732> salzig </font> = salty  
+<font color = #ffb732> süß </font> = sweet  
 
 
 ## Lesson 3
 - **Substantiv**
-der <font color=#ffc04c> Saft </font> = juice  
-das <font color=#ffc04c> Ei </font> = egg  
-die <font color=#ffc04c> Orange </font> = orange  
-der <font color=#ffc04c> Orangensaft </font> = orange juice  
-der <font color=#ffc04c> Käse </font> = cheese  
-die <font color=#ffc04c> Nudeln </font> = pasta / noodle  
-die <font color=#ffc04c> Banane </font> = banana  
+der <font color = #ffb732> Saft </font> = juice  
+das <font color = #ffb732> Ei </font> = egg  
+die <font color = #ffb732> Orange </font> = orange  
+der <font color = #ffb732> Orangensaft </font> = orange juice  
+der <font color = #ffb732> Käse </font> = cheese  
+die <font color = #ffb732> Nudeln </font> = pasta / noodle  
+die <font color = #ffb732> Banane </font> = banana  
 
 
-- Verb: <font color=#ffc04c> **schmecken** </font>
+- Verb: <font color = #ffb732> **schmecken** </font>
 
 | Person | Present |
 | --------- | ----------- |
@@ -97,41 +97,40 @@ die <font color=#ffc04c> Banane </font> = banana
 
 ## Lesson 4
 - **Substantiv**
-die <font color=#ffc04c> Erdbeere </font> = strawberry  
-das <font color=#ffc04c> Getränk </font> = drink / beverage  
-der <font color=#ffc04c> Saft </font> = juice  
-die <font color=#ffc04c> Tomate </font> = tomato  
-das <font color=#ffc04c> Menü </font> = menu  
-das <font color=#ffc04c> Frühstück </font> = breakfast  
+die <font color = #ffb732> Erdbeere </font> = strawberry  
+das <font color = #ffb732> Getränk </font> = drink / beverage  
+der <font color = #ffb732> Saft </font> = juice  
+die <font color = #ffb732> Tomate </font> = tomato  
+das <font color = #ffb732> Menü </font> = menu  
+das <font color = #ffb732> Frühstück </font> = breakfast  
 
 - **Adjektiv**
-<font color=#ffc04c> Durst </font> = thirsty
+<font color = #ffb732> Durst </font> = thirsty
 
 
 
 ## Lesson 5
 - **Substantiv**
-der <font color=#ffc04c> Zucker </font> = sugar  
-das <font color=#ffc04c> Fleisch </font> = meat  
-das <font color=#ffc04c> Rezept </font> = recipe  
-das <font color=#ffc04c> Hähnchen </font> = chicken  
-der <font color=#ffc04c> Apfelsaft </font> = apple juice  
-die <font color=#ffc04c> Kartoffel </font> = potato  
+der <font color = #ffb732> Zucker </font> = sugar  
+das <font color = #ffb732> Fleisch </font> = meat  
+das <font color = #ffb732> Rezept </font> = recipe  
+das <font color = #ffb732> Hähnchen </font> = chicken  
+der <font color = #ffb732> Apfelsaft </font> = apple juice  
+die <font color = #ffb732> Kartoffel </font> = potato  
 
 - **Adjektiv**
-<font color=#ffc04c> frisch </font> = fresh  
-<font color=#ffc04c> lecker </font> = delicious  
+<font color = #ffb732> frisch </font> = fresh  
+<font color = #ffb732> lecker </font> = delicious  
 
 ## Lesson 6
 - **Substantiv**
-die <font color=#ffc04c> Zitrone </font> = lemmon  
-der <font color=#ffc04c> Vegetarier </font> = vegetarian  
-der <font color=#ffc04c> Wein </font> = wine  
-das <font color=#ffc04c> Bier </font> = beer  
-die <font color=#ffc04c> Speisekarte </font> = menu  
-das <font color=#ffc04c> Öl </font> = the oil  
+die <font color = #ffb732> Zitrone </font> = lemmon  
+der <font color = #ffb732> Vegetarier </font> = vegetarian  
+der <font color = #ffb732> Wein </font> = wine  
+das <font color = #ffb732> Bier </font> = beer  
+die <font color = #ffb732> Speisekarte </font> = menu  
+das <font color = #ffb732> Öl </font> = the oil  
 
 - **Adjektiv**
-<font color=#ffc04c> Sauer </font> = sour  
-
+<font color = #ffb732> Sauer </font> = sour
 
