@@ -59,7 +59,7 @@ No continuous aspect
 In German, there's no continuous aspect, i.e. there are no separate forms for "I drink" and "I am drinking". There's only one form: Ich trinke.
 
 There's no such thing as Ich bin trinke or Ich bin trinken!
-
+# Test
 When translating into English, how can I tell whether to use the simple (I drink) or the continuous form (I am drinking)?
 
 Unless the context suggests otherwise, either form should be accepted.
@@ -73,5 +73,6 @@ I like bread = Ich mag Brot (bread in general)
 I like the bread = Ich mag das Brot (specific bread)
 
 It gets more complicated when it comes to abstract nouns, but we'll see about that later.
+
 
 # TeSt
