@@ -37,45 +37,54 @@ Sometimes, there's a connecting sound (Fugenlaut) between two elements. For inst
 
 The word süß means sweet when referring to food, and cute when referring to living beings.
 
-Der Zucker ist süß. (The sugar is sweet.)
-Die Katze ist süß. (The cat is cute.)
+Der Zucker ist süß. (The sugar is sweet.)  
+Die Katze ist süß. (The cat is cute.)  
 
 ### Does Gemüse mean vegetable or vegetables?
 
 In German, "Gemüse" is used as a mass noun. That means it's grammatically singular and takes a singular verb.
 
 ### Lesson 1
+- **Substantiv**  
+der Tee = tea  
+der Fisch = fish  
+das Salz = salt  
+die Suppe = soup  
+das Mittagessen = lunch  
+der Kaffee = coffee  
+das Essen = food  
+die Pizza = pizza  
+das Eis = ice cream  
+
+- **Adjektiv**  
 Hunger = hungury
-der Tee = tea
-der Fisch = fish
-das Salz = salt
-die Suppe = soup
-das Mittagessen = lunch
-der Kaffee = coffee
-das Essen = food
-die Pizza = pizza
-das Eis = ice cream
+
 
 ### Lesson 2
-das Abendessen = dinner
-salzig = salty
-die Schokolade = chocolate
+- **Substantiv**  
+das Abendessen = dinner  
+die Schokolade = chocolate  
+das Obst = fruit  
+das Gemüse = vegetables  
+der Wein = wine  
+
+- **Adjektiv**  
+salzig = salty  
 süß = sweet
-das Obst = fruit
-das Gemüse = vegetables
-der Wein = wine
+
 
 ### Lesson 3
-der Saft = juice
-das Ei = egg
-die Orange = orange
-der Orangensaft = orange juice
-der Käse = cheese
-die Nudeln = pasta / noodle
-Schmecken = taste
+- **Substantiv**  
+der Saft = juice  
+das Ei = egg  
+die Orange = orange  
+der Orangensaft = orange juice  
+der Käse = cheese  
+die Nudeln = pasta / noodle  
 die Banane = banana
 
-Verb: **schmecken**
+
+- Verb: **schmecken**
 
 |   Person  |    Present  |
 | --------- | ----------- |
@@ -87,35 +96,43 @@ Verb: **schmecken**
 | sie / Sie | schmeck**n** |
 
 ### Lesson 4
-die Erdbeere = strawberry
-das Getränk = drink / beverage
+- **Substantiv**  
+die Erdbeere = strawberry  
+das Getränk = drink / beverage  
+der Saft = juice  
+die Tomate = tomato  
+das Menü = menu  
+das Frühstück = breakfast  
+
+- **Adjektiv**  
 Durst = thirsty
-der Saft = juice
 
-Ich habe Durst = I am thirsty
 
-die Tomate = tomato
-das Menü = menu
-das Frühstück = breakfast
 
 ### Lesson 5
-der Zucker = sugar
-das Fleisch = meat
-das Rezept = recipe
-das Hähnchen = chicken
-der Apfelsaft = apple juice
-die Kartoffel = potato
-frisch = fresh
+- **Substantiv**  
+der Zucker = sugar  
+das Fleisch = meat  
+das Rezept = recipe  
+das Hähnchen = chicken  
+der Apfelsaft = apple juice  
+die Kartoffel = potato  
+
+- **Adjektiv**  
+frisch = fresh  
 lecker = delicious
 
 ### Lesson 6
-die Zitrone = lemmon
+- **Substantiv**  
+die Zitrone = lemmon  
+der Vegetarier = vegetarian  
+der Wein = wine  
+das Bier = beer  
+die Speisekarte = menu  
+das Öl = the oil  
+
+- **Adjektiv**  
 Sauer = sour
-der Vegetarier = vegetarian
-der Wein = wine
-das Bier = beer
-die Speisekarte = menu
-das Öl = the oil
 
 
 

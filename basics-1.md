@@ -76,28 +76,28 @@ It gets more complicated when it comes to abstract nouns, but we'll see about th
 
 
 ### Lesson 1
-der Junge 
-der Mann
-der Apfel
-die Frau 
+der Junge  
+der Mann  
+der Apfel  
+die Frau   
 
 
 
 ### Lesson 2
-das Mädchen = the girl
-- Ein is for masculine and neuter words. 
+das Mädchen = the girl   
+- Ein is for masculine and neuter words.   
     e.g. Ich bin ein Kind. = I am a child.
 
 ein Kind = a kid     
-das Kind
-Er ist ein Junge. = He is a boy.
-Sie ist eine Frau.
-Du bist ein Mann.
+das Kind  
+Er ist ein Junge. = He is a boy.  
+Sie ist eine Frau.  
+Du bist ein Mann.  
 
 ### Lesson 3
-Er isst = He eats / He is eating
+Er isst = He eats / He is eating  
 
-Verb: **essen**
+- Verb: **essen**
 
 | Person | Present |
 | -------- | ------- |
@@ -112,7 +112,7 @@ Verb: **essen**
 ### Lesson 4
 Sie trinkt = She is drinking
 
-Verb: **trinken**
+- Verb: **trinken**
 
 |   Person  |    Present  |
 | --------- | ----------- |

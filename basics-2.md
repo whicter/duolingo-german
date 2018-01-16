@@ -1,12 +1,12 @@
 ### Lesson 1
-Ihr = you or her
-- Ihr can mean plural you: 
-e.g., Ihr seid Schüler = You are students 
+Ihr = you or her  
+- Ihr can mean plural you:   
+e.g., Ihr seid Schüler = You are students   
 - or her: Er spricht mit ihr = He is talking to her
 
 
 ### Lesson 2
-Die Männer = Plural form of Mann
+Die Männer = Plural form of Mann  
 Die Frauen
 
 The plural article die
@@ -15,13 +15,13 @@ The plural article die
 Die Kinder
 
 _**Sie: she or they?**_
-> sie can mean both she or they. The verb ending tells you which is meant: sie lernt =she learns vs. sie lernen = they learn.
+> sie can mean both she or they. The verb ending tells you which is meant: sie lernt = she learns vs. sie lernen = they learn.
 
 
 ### Lesson 3
 das Buch = book
 
-lesen = read
+- Verb: **lesen** = read
 
 | Person | Present |
 | -------- | ------- |
