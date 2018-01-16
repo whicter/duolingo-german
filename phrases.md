@@ -22,7 +22,7 @@ In German, "Willkommen" means welcome as in "Welcome to our home", but it does n
 <font color = #ffb732> Ja </font> = yes
 
 ## Lesson 2
-Gern geschehen!= You are welcome (response to thank you)  
+Gern geschehen! = You are welcome (response to thank you)  
 Wie geht's = How is it going
 
 - **Position of nicht**:  
