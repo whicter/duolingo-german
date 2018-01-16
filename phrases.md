@@ -18,17 +18,6 @@ In German, "Willkommen" means welcome as in "Welcome to our home", but it does n
 <font color = #ffb732> Hallo </font> = Hello  
 <font color = #ffb732> bitte </font> = please  
 <font color = #ffb732> Nein </font> = no  
-<font color = #ffb732> Danke </font> = Thanks  
-<font color = #ffb732> Ja </font> = yes  
-
-Du bist willkommen! = You are welcome!
-<br>  
-
-## Lesson 1
-<font color = #ffb732> Tschüss </font> = Bye  
-<font color = #ffb732> Hallo </font> = Hello  
-<font color = #ffb732> bitte </font> = please  
-<font color = #ffb732> Nein </font> = no  
 <font color = #ffb732> Danke </font> = Thanks    
 <font color = #ffb732> Ja </font> = yes  
 Du bist willkommen! = You are welcome!  
