@@ -1,5 +1,4 @@
-#
-Tips and notes
+## Tips and notes
 
 ### Capitalizing nouns
 
@@ -76,7 +75,7 @@ I like the bread = Ich mag das Brot (specific bread)
 It gets more complicated when it comes to abstract nouns, but we'll see about that later.
 
 
-### Lesson 1
+## Lesson 1
 der <font color=#ffc04c>Junge</font>  
 der <font color=#ffc04c>Mann</font>  
 der <font color=#ffc04c>Apfel</font>  
@@ -84,7 +83,7 @@ die <font color=#ffc04c>Frau</font>
 
 
 
-### Lesson 2
+## Lesson 2
 das <font color=#ffc04c>Mädchen = the girl</font>   
 - Ein is for masculine and neuter words.
 e.g. Ich bin ein Kind. = I am a child.
@@ -96,7 +95,7 @@ Er ist ein Junge. = He is a boy.
 Sie ist eine Frau.  
 Du bist ein Mann.  
 
-### Lesson 3
+## Lesson 3
 Er <font color=#ffc04c>isst</font>  = He eats / He is eating
 
 - Verb: <font color=#ffc04c> **essen** </font>  
@@ -111,7 +110,7 @@ Er <font color=#ffc04c>isst</font>  = He eats / He is eating
 | sie / Sie | esse**n** |
 
 
-### Lesson 4
+## Lesson 4
 Sie trinkt = She is drinking
 
 - Verb: <font color=#ffc04c> **trinken** </font>  
@@ -125,7 +124,7 @@ Sie trinkt = She is drinking
 | ihr | trink**t** |
 | sie / Sie | trink**en** |
 
-### Lesson 5
+## Lesson 5
 die Milch = milk
 
 **_When der becomes den?_**

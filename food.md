@@ -1,5 +1,4 @@
-#
-Tips and notes
+## Tips and notes
 ### The verb haben (to have)
 
 In English, you can say "I'm having bread" when you really mean that you're eating or about to eat bread. **This does not work in German.** The verb **_haben refers to possession only_**. Hence, the sentence Ich habe Brot only translates to I have bread, not I'm having bread. Of course, the same applies to drinks. Ich habe Wasser only translates to I have water, not I'm having water.
@@ -45,7 +44,7 @@ Die Katze ist süß. (The cat is cute.)
 
 In German, "Gemüse" is used as a mass noun. That means it's grammatically singular and takes a singular verb.
 
-### Lesson 1
+## Lesson 1
 - **Substantiv**
 der <font color=#ffc04c> Tee </font> = tea  
 der <font color=#ffc04c> Fisch </font> = fish  
@@ -61,7 +60,7 @@ das <font color=#ffc04c> Eis </font> = ice cream
 <font color=#ffc04c> Hunger </font> = hungury
 
 
-### Lesson 2
+## Lesson 2
 - **Substantiv**
 das <font color=#ffc04c> Abendessen </font> = dinner  
 die <font color=#ffc04c> Schokolade </font> = chocolate  
@@ -74,7 +73,7 @@ der <font color=#ffc04c> Wein </font> = wine
 <font color=#ffc04c> süß </font> = sweet  
 
 
-### Lesson 3
+## Lesson 3
 - **Substantiv**
 der <font color=#ffc04c> Saft </font> = juice  
 das <font color=#ffc04c> Ei </font> = egg  
@@ -96,7 +95,7 @@ die <font color=#ffc04c> Banane </font> = banana
 | ihr | schmeck**t** |
 | sie / Sie | schmeck**n** |
 
-### Lesson 4
+## Lesson 4
 - **Substantiv**
 die <font color=#ffc04c> Erdbeere </font> = strawberry  
 das <font color=#ffc04c> Getränk </font> = drink / beverage  
@@ -110,7 +109,7 @@ das <font color=#ffc04c> Frühstück </font> = breakfast
 
 
 
-### Lesson 5
+## Lesson 5
 - **Substantiv**
 der <font color=#ffc04c> Zucker </font> = sugar  
 das <font color=#ffc04c> Fleisch </font> = meat  
@@ -123,7 +122,7 @@ die <font color=#ffc04c> Kartoffel </font> = potato
 <font color=#ffc04c> frisch </font> = fresh  
 <font color=#ffc04c> lecker </font> = delicious  
 
-### Lesson 6
+## Lesson 6
 - **Substantiv**
 die <font color=#ffc04c> Zitrone </font> = lemmon  
 der <font color=#ffc04c> Vegetarier </font> = vegetarian  
