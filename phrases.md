@@ -61,9 +61,9 @@ leider = unfortunately, sadly
 <font color = #ffb732> Der Junge tut mir leid </font> = I feel sorry for the boy
 
 <font color = #ffb732> Entschuldigung </font> = sorry, excuse  
-<font color = #ffb732> Entschuldigung, bitte. = Excuse me, please  
-<font color = #ffb732> Ordnung = order  
-<font color = #ffb732> In Ordnung <= Alright.
+<font color = #ffb732> Entschuldigung, bitte </font>. = Excuse me, please  
+<font color = #ffb732> Ordnung </font> = order  
+<font color = #ffb732> In Ordnung </font> = Alright.
 
 
 ## Lesson 5
