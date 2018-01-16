@@ -24,8 +24,6 @@ In German, "Willkommen" means welcome as in "Welcome to our home", but it does n
 ## Lesson 2
 
 
-- **Position of nicht**:
-> Usually nicht follows the conjugated verb and adverbs of time: Ich esse nicht viel. (I am not eating a lot). and Ich esse heute nicht. (I am not eating today).
 
 ## Lesson 3
 <font color = #ffb732> bald </font> = soon, shortly  
