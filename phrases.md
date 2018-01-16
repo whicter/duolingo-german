@@ -1,5 +1,3 @@
-<font color = #ffb732></font>   
-
 
 ## Tips and notes
 
@@ -25,7 +23,7 @@ In German, "Willkommen" means welcome as in "Welcome to our home", but it does n
 
 Du bist willkommen! = You are welcome!
 
-# Lesson 2
+## Lesson 2
  
 <font color = #ffb732> Gern geschehen! </font> = You are welcome (response to thank you) 
 
