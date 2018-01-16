@@ -29,8 +29,9 @@ Du bist willkommen! = You are welcome!
 <font color = #ffb732> Hallo </font> = Hello  
 <font color = #ffb732> bitte </font> = please  
 <font color = #ffb732> Nein </font> = no  
-<font color = #ffb732> Danke </font> = Thanks  
+<font color = #ffb732> Danke </font> = Thanks    
 <font color = #ffb732> Ja </font> = yes  
+Du bist willkommen! = You are welcome!  
 
 ## Lesson 2  
 <font color = #ffb732> Gern geschehen! </font> = You are welcome (response to thank you) 
