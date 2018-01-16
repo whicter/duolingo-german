@@ -54,13 +54,13 @@ leider = unfortunately, sadly
 | ihr | tut |
 | sie / Sie | tun |
 
-mir = objective form of I, me  
+<font color = #ffb732> mir </font> = objective form of I, me  
 
-Es tut mir leid = I am sorry.
+<font color = #ffb732> Es tut mir leid </font> = I am sorry.
 
-Der Junge tut mir leid = I feel sorry for the boy
+<font color = #ffb732> Der Junge tut mir leid </font> = I feel sorry for the boy
 
-Entschuldigung = sorry, excuse  
+<font color = #ffb732> Entschuldigung </font> = sorry, excuse  
 <font color = #ffb732> Entschuldigung, bitte. = Excuse me, please  
 <font color = #ffb732> Ordnung = order  
 <font color = #ffb732> In Ordnung <= Alright.
