@@ -14,16 +14,15 @@ There are many ways to ask someone how he or she is doing. Take "How are you?," 
 In German, "Willkommen" means welcome as in "Welcome to our home", but it does not mean welcome as in "Thank you - You're welcome". The German for the latter is "Gern geschehen" or "Keine Ursache".
 
 ## Lesson 1
-<font color = #ffb732> Tschüss </font> = Bye  
+<font color = #ffb732> Tschüss </font> = Bye
 <font color = #ffb732> Hallo </font> = Hello  
 <font color = #ffb732> bitte </font> = please  
 <font color = #ffb732> Nein </font> = no  
 <font color = #ffb732> Danke </font> = Thanks  
-<font color = #ffb732> Ja </font> = yes  
-Du bist willkommen! = You are welcome!  
+<font color = #ffb732> Ja </font> = yes
 
 ## Lesson 2  
-<font color = #ffb732> Gern geschehen! </font> = You are welcome (response to thank you) 
+<font color = #ffb732> Gern geschehen! </font> = You are welcome (response to thank you)  
 
 <font color = #ffb732> Wie  geht's </font> = How is it going  
 
