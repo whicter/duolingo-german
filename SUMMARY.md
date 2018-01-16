@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Basics 1](basics-1.md)
   * [Tips](basics-1.md/#tips-and-notes)
-  * [Lesson 1](https://whicter.gitbooks.io/duolingo-german/content/basics-1.html#lesson-1)
+  * [Lesson 1](basics-1.md#lesson-1)
   * [Lesson 2](basics-1.md/#lesson-2)
   * [Lesson 3](basics-1.md/#lesson-3)
   * [Lesson 4](basics-1.md/#lesson-4)
