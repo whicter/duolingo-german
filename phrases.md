@@ -29,6 +29,8 @@ In German, "Willkommen" means welcome as in "Welcome to our home", but it does n
 
 
 ## Lesson 4
+
+<font color = #ffb732> genau </font>
 <font color = #ffb732> genau </font> = exactly  
 <font color = #ffb732> leider </font> = unfortunately, sadly
 
