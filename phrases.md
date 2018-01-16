@@ -30,8 +30,7 @@ Du bist willkommen! = You are welcome!
 <font color = #ffb732> Wie  geht's </font> = How is it going  
 
 - **Position of nicht**:  
-> Usually nicht follows the conjugated verb and adverbs of time: Ich esse nicht viel. (I am not eating a lot). and Ich esse heute nicht. (I am not eating today).
-
+> Usually nicht follows the conjugated verb and adverbs of time: Ich esse nicht viel. (I am not eating a lot). and Ich esse heute nicht. (I am not eating today).  
 
 ## Lesson 3
 <font color = #ffb732> bald </font> = soon, shortly  
@@ -71,14 +70,14 @@ Der Junge tut mir leid = I feel sorry for the boy
 
 <font color = #ffb732> Entschuldigung </font> = sorry, excuse  
 
-<font color = #ffb732> Entschuldigung, bitte. = Excuse me, please  
+<font color = #ffb732> Entschuldigung, bitte. </font> = Excuse me, please  
 
 <font color = #ffb732> Ordnung </font> = order
 <font color = #ffb732> In Ordnung </font> = Alright.
 
 ## Lesson 5
 <font color = #ffb732> klar </font> = clear, sure  
-<font color = #ffb732> Alles klar </font> all right  
+<font color = #ffb732> Alles klar </font> = all right  
 <font color = #ffb732> ahnung </font> = idea  
 <font color = #ffb732> keine Ahnung </font> = no idea  
 
