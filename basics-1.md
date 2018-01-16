@@ -121,7 +121,7 @@ Verb: **trinken**
 | er/sie/es | trink**t**  |
 | wir       | trink**en**  |
 | ihr       | trink**t**  |
-| sie / Sie | trinke**en** |
+| sie / Sie | trink**en** |
 
 ### Lesson 5
 die Milch = milk
