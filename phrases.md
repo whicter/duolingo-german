@@ -21,7 +21,8 @@ In German, "Willkommen" means welcome as in "Welcome to our home", but it does n
 <font color = #ffb732> Danke </font> = Thanks  
 <font color = #ffb732> Ja </font> = yes  
 
-Du bist willkommen! = You are welcome!  
+Du bist willkommen! = You are welcome!
+<br>  
 
 ## Lesson 2
  
