@@ -12,10 +12,10 @@ Nouns in German are either feminine, masculine or neuter. For example, "Frau" (w
 
 Generally speaking, the definite article "die" (the) and the indefinite article "eine" (a/an) are used for feminine nouns, "der" and "ein" for masculine nouns, and "das" and "ein" for neuter nouns. For example, it is "die Frau," "der Mann," and "das Kind." However, later you will see that this changes depending on something called the "case of the noun."
 
-|          | masculine | neuter | feminine |
+| | masculine | neuter | feminine |
 | -------- | ------- | ------- | ------- |
 | indefinite (a/an) | ein Mann | ein Mädchen | eine Frau |
-| definite (the)    | der Mann	| das Mädchen |	die Frau  |
+| definite (the) | der Mann	| das Mädchen |	die Frau |
 
 
 ### Conjugations of the verb sein (to be)
@@ -24,13 +24,13 @@ A few verbs like "sein" (to be) are completely irregular, and their conjugations
 
 | German | English |
 | -------- | ------- |
-| ich bin       | I am
-| du bist       | you (singular informal) are |
-| er/sie/es ist | he/she/it is                |    
-| wir sind	 | we are                      |  
-| ihr seid	 | you (plural informal) are   |
-| sie sind	 | they are                    |
-| Sie sind	 | you (formal) are            |
+| ich bin | I am
+| du bist | you (singular informal) are |
+| er/sie/es ist | he/she/it is |
+| wir sind	| we are |
+| ihr seid	| you (plural informal) are |
+| sie sind	| they are |
+| Sie sind	| you (formal) are |
 
 ### Conjugating regular verbs
 
@@ -40,13 +40,13 @@ Verb conjugation in German is more challenging than in English. To conjugate a r
 
 **English person**|**ending**|**German example**
 :-----:|:-----:|:-----:
-I                      | -e  | ich trink**e**
+I | -e | ich trink**e**
 you (singular informal)| -st | du trink**st**
-he/she/it              | -t  | er/sie/es trin**kt**
-we                     | -en | wir trinken
-you (plural informal)  | -t  | ihr trin**kt**
-you (formal)           | -en | Sie trink**en**
-they                   | -en | sie trink**en**
+he/she/it | -t | er/sie/es trin**kt**
+we | -en | wir trinken
+you (plural informal) | -t | ihr trin**kt**
+you (formal) | -en | Sie trink**en**
+they | -en | sie trink**en**
 
 ### Umlauts
 
@@ -79,34 +79,34 @@ It gets more complicated when it comes to abstract nouns, but we'll see about th
 der Junge  
 der Mann  
 der Apfel  
-die Frau   
+die Frau   
 
 
 
 ### Lesson 2
-das Mädchen = the girl   
-- Ein is for masculine and neuter words.   
-    e.g. Ich bin ein Kind. = I am a child.
+das Mädchen = the girl
+- Ein is for masculine and neuter words. 
+e.g. Ich bin ein Kind. = I am a child.
 
-ein Kind = a kid     
+ein Kind = a kid     
 das Kind  
 Er ist ein Junge. = He is a boy.  
 Sie ist eine Frau.  
-Du bist ein Mann.  
+Du bist ein Mann.
 
 ### Lesson 3
-Er isst = He eats / He is eating  
+Er isst = He eats / He is eating
 
 - Verb: **essen**
 
 | Person | Present |
 | -------- | ------- |
-| ich           | ess**e**  |
-| du            | iss**t**  |
-| er/sie/es     | iss**t**  |
-| wir           | esse**n** |  
-| ihr           | ess**t**  |
-| sie / Sie     | esse**n** |
+| ich | ess**e** |
+| du | iss**t** |
+| er/sie/es | iss**t** |
+| wir | esse**n** |
+| ihr | ess**t** |
+| sie / Sie | esse**n** |
 
 
 ### Lesson 4
@@ -114,40 +114,35 @@ Sie trinkt = She is drinking
 
 - Verb: **trinken**
 
-|   Person  |    Present  |
+| Person | Present |
 | --------- | ----------- |
-| ich       | trink**e**  |
-| du        | trink**st**  |
-| er/sie/es | trink**t**  |
-| wir       | trink**en**  |
-| ihr       | trink**t**  |
+| ich | trink**e** |
+| du | trink**st** |
+| er/sie/es | trink**t** |
+| wir | trink**en** |
+| ihr | trink**t** |
 | sie / Sie | trink**en** |
 
 ### Lesson 5
 die Milch = milk
 
-**_When der becomes den?_**
-- Masculine words that receive the action have special articles. 
-    The man eats the apple = Der Mann isst den Apfel.  
+**_When der becomes den?_**
+- Masculine words that receive the action have special articles. 
+The man eats the apple = Der Mann isst den Apfel. 
 
-**_When ein becomes einen? _**
+**_When ein becomes einen? _**
 - Masculine words that receive the action have different articles than nouns that act.
-    A man sees a dog = Ein Mann sieht einen Hund.  
+A man sees a dog = Ein Mann sieht einen Hund. 
 
 Du bist gut. = You are good
 
 Verb: **sein**
 
-|   Person  |    Present  |
+| Person | Present |
 | --------- | ----------- |
-| ich       | bin  |
-| du        | bist |
-| er/sie/es | ist  | 
-| wir       | sind |
-| ihr       | seid |
+| ich | bin |
+| du | bist |
+| er/sie/es | ist |
+| wir | sind |
+| ihr | seid |
 | sie / Sie | sind |
-
-
-
-
-

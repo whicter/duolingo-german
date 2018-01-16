@@ -37,8 +37,8 @@ Sometimes, there's a connecting sound (Fugenlaut) between two elements. For inst
 
 The word süß means sweet when referring to food, and cute when referring to living beings.
 
-Der Zucker ist süß. (The sugar is sweet.)  
-Die Katze ist süß. (The cat is cute.)  
+Der Zucker ist süß. (The sugar is sweet.)
+Die Katze ist süß. (The cat is cute.)
 
 ### Does Gemüse mean vegetable or vegetables?
 
@@ -50,7 +50,7 @@ der Tee = tea
 der Fisch = fish  
 das Salz = salt  
 die Suppe = soup  
-das Mittagessen = lunch  
+das Mittagessen = lunch  
 der Kaffee = coffee  
 das Essen = food  
 die Pizza = pizza  
@@ -62,8 +62,8 @@ Hunger = hungury
 
 ### Lesson 2
 - **Substantiv**  
-das Abendessen = dinner  
-die Schokolade = chocolate  
+das Abendessen = dinner  
+die Schokolade = chocolate  
 das Obst = fruit  
 das Gemüse = vegetables  
 der Wein = wine  
@@ -74,25 +74,25 @@ süß = sweet
 
 
 ### Lesson 3
-- **Substantiv**  
+- **Substantiv**
 der Saft = juice  
 das Ei = egg  
-die Orange = orange  
+die Orange = orange  
 der Orangensaft = orange juice  
-der Käse = cheese  
+der Käse = cheese  
 die Nudeln = pasta / noodle  
-die Banane = banana
+die Banane = banana  
 
 
 - Verb: **schmecken**
 
-|   Person  |    Present  |
+| Person | Present |
 | --------- | ----------- |
-| ich       | schmeck**e**  |
-| du        | schmeck**st**  |
-| er/sie/es | schmeck**t**  |
-| wir       | schmeck**en**  |
-| ihr       | schmeck**t**  |
+| ich | schmeck**e** |
+| du | schmeck**st** |
+| er/sie/es | schmeck**t** |
+| wir | schmeck**en** |
+| ihr | schmeck**t** |
 | sie / Sie | schmeck**n** |
 
 ### Lesson 4
@@ -101,7 +101,7 @@ die Erdbeere = strawberry
 das Getränk = drink / beverage  
 der Saft = juice  
 die Tomate = tomato  
-das Menü = menu  
+das Menü = menu  
 das Frühstück = breakfast  
 
 - **Adjektiv**  
@@ -112,10 +112,10 @@ Durst = thirsty
 ### Lesson 5
 - **Substantiv**  
 der Zucker = sugar  
-das Fleisch = meat  
-das Rezept = recipe  
+das Fleisch = meat  
+das Rezept = recipe  
 das Hähnchen = chicken  
-der Apfelsaft = apple juice  
+der Apfelsaft = apple juice  
 die Kartoffel = potato  
 
 - **Adjektiv**  
@@ -124,7 +124,7 @@ lecker = delicious
 
 ### Lesson 6
 - **Substantiv**  
-die Zitrone = lemmon  
+die Zitrone = lemmon  
 der Vegetarier = vegetarian  
 der Wein = wine  
 das Bier = beer  
@@ -133,7 +133,6 @@ das Öl = the oil
 
 - **Adjektiv**  
 Sauer = sour
-
 
 
 
