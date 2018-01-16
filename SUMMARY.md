@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Basics 1](basics-1.md)
-    * [L1](basics-1.md/L1)
+    * [L1](basics-1.md/#L1)
 * Basics 2
 
