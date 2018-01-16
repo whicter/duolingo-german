@@ -70,9 +70,9 @@ I like the bread = Ich mag das Brot (specific bread)
 It gets more complicated when it comes to abstract nouns, but we'll see about that later.
 
 
-# Lesson 1
+# L1
 dfasfdsafsa
 
 
-# Lesson 2
+# L2
 fdsafddsa
