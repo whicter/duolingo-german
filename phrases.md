@@ -19,11 +19,14 @@ In German, "Willkommen" means welcome as in "Welcome to our home", but it does n
 <font color = #ffb732> bitte </font> = please  
 <font color = #ffb732> Nein </font> = no  
 <font color = #ffb732> Danke </font> = Thanks  
-<font color = #ffb732> Ja </font> = yess
+<font color = #ffb732> Ja </font> = yes
 
 ## Lesson 2
 Gern geschehen!= You are welcome (response to thank you)  
 Wie geht's = How is it going
+
+- **Position of nicht**:  
+> Usually nicht follows the conjugated verb and adverbs of time: Ich esse nicht viel. (I am not eating a lot). and Ich esse heute nicht. (I am not eating today).
 
 
 ## Lesson 3
