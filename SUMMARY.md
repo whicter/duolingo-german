@@ -24,20 +24,3 @@
     * [Lesson 5](food.md/#lesson-5)
     * [Lesson 6](food.md/#lesson-6)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
