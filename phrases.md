@@ -22,26 +22,26 @@ In German, "Willkommen" means welcome as in "Welcome to our home", but it does n
 <font color = #ffb732> Ja </font> = yes
 
 ## Lesson 2
-Gern geschehen! = You are welcome (response to thank you)  
-Wie geht's = How is it going
+<font color = #ffb732> Gern geschehen! </font> = You are welcome (response to thank you)    
+<font color = #ffb732> Wie geht's </font> = How is it going  
 
 - **Position of nicht**:  
 > Usually nicht follows the conjugated verb and adverbs of time: Ich esse nicht viel. (I am not eating a lot). and Ich esse heute nicht. (I am not eating today).
 
-
 ## Lesson 3
-bald = soon, shortly
-bis = until
-Bis Balt = see you soon
-später = later
-Bis später = see you later
-bis morgen = see you tomorrow  
-Auf Wiedersehen = goodbye
+<font color = #ffb732> bald </font> = soon, shortly  
+<font color = #ffb732> bis </font> = until  
+<font color = #ffb732> Bis Balt </font> = see you soon  
+<font color = #ffb732> später </font> = later  
+<font color = #ffb732> Bis später </font> = see you later  
+<font color = #ffb732> bis morgen </font> = see you tomorrow    
+<font color = #ffb732> Auf Wiedersehen </font> = goodbye  
 
 
 ## Lesson 4
-genau = exactly  
-leider = unfortunately, sadly
+<font color = #ffb732> genau </font> = exactly  
+<font color = #ffb732> leider </font> = unfortunately, sadly
+
 
 - Verb: <font color = #ffb732> **_tun_** </font> = do
 
