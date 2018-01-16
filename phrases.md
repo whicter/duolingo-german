@@ -43,7 +43,7 @@ Auf Wiedersehen = goodbye
 genau = exactly  
 leider = unfortunately, sadly
 
-- Verb: **_tun_** 
+- Verb: <font color = #ffb732> **_tun_** </font>
 
 | Person | Present |
 | --------- | ----------- |
