@@ -20,7 +20,6 @@ In German, "Willkommen" means welcome as in "Welcome to our home", but it does n
 <font color = #ffb732> Nein </font> = no  
 <font color = #ffb732> Danke </font> = Thanks  
 <font color = #ffb732> Ja </font> = yes
-
 ## Lesson 2  
 <font color = #ffb732> Gern geschehen! </font> = You are welcome (response to thank you)  
 
