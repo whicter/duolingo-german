@@ -1,6 +1,6 @@
 
 ## Tips and notes
-
+fff
 ### SIMPLE GERMAN PRESENT TENSE
 
 In English, the present tense can be simple or progressive (as in "I eat" or "I am eating"). Both forms translate to just one German present tense form, because there is no continuous tense in standard German. So, "she learns" and "she is learning" are both "sie lernt."
