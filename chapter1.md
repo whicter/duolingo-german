@@ -1,4 +1,4 @@
-Relative Internal Link to a [heading](#test) in the SAME article:
+
 
 # First Chapter
 
