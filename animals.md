@@ -16,7 +16,7 @@ ihr esst|ihr fresst
 sie/Sie essen|sie/Sie fressen
 
 ## Lesson 1
-die <font color = #ffb732> Katze </font> = cat  
+die <font color= #ffb732> Katze </font> = cat  
 der <font color = #ffb732> Vogel </font> = bird  
 die <font color = #ffb732> Maus </font> = mouse  
 der <font color = #ffb732> Bär </font> = bear  
@@ -41,11 +41,11 @@ das <font color = #ffb732> Haustier </font> = pet
 die <font color = #ffb732> Kuh </font> = cow
 
 ## Lesson 3
-die <font color = #ffb732> Biene </font> = bee
-die <font color = #ffb732> Fliege </font> = fly
-das <font color = #ffb732> Insekt </font> = insect
-die <font color = #ffb732> Spinne </font> = spider
-der <font color = #ffb732> Käfer </font> = beetle
+die <font color = #ffb732> Biene </font> = bee  
+die <font color = #ffb732> Fliege </font> = fly  
+das <font color = #ffb732> Insekt </font> = insect  
+die <font color = #ffb732> Spinne </font> = spider  
+der <font color = #ffb732> Käfer </font> = beetle  
 
 
 
