@@ -36,9 +36,9 @@ das <font color = #ffb732> Pferd </font> = horse
 | sie / Sie | fress**en** |
 
 ## Lesson 2
-die <font color = #ffb732> Ente </font> = duck
-das <font color = #ffb732> Haustier </font> = pet
-die <font color = #ffb732> Kuh </font> = cow
+die <font color = #ffb732> Ente </font> = duck  
+das <font color = #ffb732> Haustier </font> = pet  
+die <font color = #ffb732> Kuh </font> = cow  
 
 ## Lesson 3
 die <font color = #ffb732> Biene </font> = bee  
