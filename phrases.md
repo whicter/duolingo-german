@@ -30,10 +30,40 @@ Wie geht's = How is it going
 
 
 ## Lesson 3
+bald = soon, shortly
+bis = until
+Bis Balt = see you soon
+später = later
+Bis später = see you later
+bis morgen = see you tomorrow  
+Auf Wiedersehen = goodbye
 
 
 ## Lesson 4
+genau = exactly  
+leider = unfortunately, sadly
 
+- Verb: **_tun_** 
+
+| Person | Present |
+| --------- | ----------- |
+| ich | tue |
+| du | tust |
+| er/sie/es | tut |
+| wir | tun |
+| ihr | tut |
+| sie / Sie | tun |
+
+mir = objective form of I, me  
+
+Es tut mir leid = I am sorry.
+
+Der Junge tut mir leid = I feel sorry for the boy
+
+Entschuldigung = sorry, excuse  
+<font color = #ffb732> Entschuldigung, bitte. = Excuse me, please  
+<font color = #ffb732> Ordnung = order  
+<font color = #ffb732> In Ordnung <= Alright.
 
 
 ## Lesson 5
