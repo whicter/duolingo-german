@@ -21,6 +21,15 @@ In German, "Willkommen" means welcome as in "Welcome to our home", but it does n
 <font color = #ffb732> Danke </font> = Thanks  
 <font color = #ffb732> Ja </font> = yess
 
+## Lesson 2
+
+
+## Lesson 3
+
+
+## Lesson 4
+
+
 ## Lesson 5
 <font color = #ffb732> klar </font> = clear, sure  
 <font color = #ffb732> Alles klar </font> = all right  
