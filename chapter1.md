@@ -17,6 +17,7 @@ It is very important to learn every noun along with its gender because parts of 
 
 Generally speaking, the definite article "die" (the) and the indefinite article "eine" (a/an) are used for feminine nouns, "der" and "ein" for masculine nouns, and "das" and "ein" for neuter nouns. For example, it is "die Frau," "der Mann," and "das Kind." However, later you will see that this changes depending on something called the "case of the noun."
 
+# Test
 masculine	neuter	feminine
 indefinite (a/an)	ein Mann	ein Mädchen	eine Frau
 definite (the)	der Mann	das Mädchen	die Frau
@@ -59,7 +60,6 @@ No continuous aspect
 In German, there's no continuous aspect, i.e. there are no separate forms for "I drink" and "I am drinking". There's only one form: Ich trinke.
 
 There's no such thing as Ich bin trinke or Ich bin trinken!
-# Test
 When translating into English, how can I tell whether to use the simple (I drink) or the continuous form (I am drinking)?
 
 Unless the context suggests otherwise, either form should be accepted.
