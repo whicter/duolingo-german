@@ -22,4 +22,5 @@
   * [Lesson 4](food.md#lesson-4)
   * [Lesson 5](food.md#lesson-5)
   * [Lesson 6](food.md#lesson-6)
+* [Animals](animals.md)
 
