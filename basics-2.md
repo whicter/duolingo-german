@@ -1,6 +1,6 @@
 # Tips and notes
 
-## German plurals - the nominative Case
+### German plurals - the nominative Case
 
 In English, making plurals out of singular nouns is typically as straightforward as adding an "s" or an "es" at the end of the word. In German, the transformation is more complex, and also the articles for each gender change. The following five suggestions can help:
 
@@ -41,45 +41,39 @@ In your own dialect, you might prefer to use something like y'all or you guys wh
 (There's also the formal you (Sie sind), which will be introduced later in the course.)
 
 ### Lesson 1
-Ihr = you or her  
-- Ihr can mean plural you:   
-e.g., Ihr seid Schüler = You are students   
-- or her: Er spricht mit ihr = He is talking to her
+Ihr = you or her
+- Ihr can mean plural you: 
+e.g., Ihr seid Schüler = You are students 
+- or her: Er spricht mit ihr = He is talking to her
 
 
 ### Lesson 2
-Die Männer = Plural form of Mann  
-Die Frauen
+die <font color=#ffc04c> Männer </font> = Plural form of Mann  
+die <font color=#ffc04c> Frauen</font>
 
-The plural article die
-> Use die for the with all plural words.
+The plural article die
+> Use die for the with all plural words.
 
-Die Kinder
+die <font color=#ffc04c> Kinder </font>
 
-_**Sie: she or they?**_
-> sie can mean both she or they. The verb ending tells you which is meant: sie lernt = she learns vs. sie lernen = they learn.
+_**Sie: she or they?**_
+> sie can mean both she or they. The verb ending tells you which is meant: sie lernt = she learns vs. sie lernen = they learn.
 
 
 ### Lesson 3
-das Buch = book
+das <font color=#ffc04c> Buch = book </font>
 
-- Verb: **lesen** = read
+- Verb: <font color=#ffc04c> **lesen** </font> = read
 
 | Person | Present |
 | -------- | ------- |
-| ich           | les**e**
-| du            | lies**t** |
-| er/sie/es     | lies**t** |
-| wir           | lese**n** |  
-| ihr           | less**t** |
-| sie / Sie     | lese**n** |
+| ich | les**e**
+| du | lies**t** |
+| er/sie/es | lies**t** |
+| wir | lese**n** |
+| ihr | less**t** |
+| sie / Sie | lese**n** |
 
 
 ### Lesson 4
-die Zeitung = newspaper
-
-
-
-
-
-
+die <font color=#ffc04c> Zeitung </font> = newspaper

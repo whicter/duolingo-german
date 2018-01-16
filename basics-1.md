@@ -1,4 +1,5 @@
-# Tips and notes
+#
+Tips and notes
 
 ### Capitalizing nouns
 
@@ -76,28 +77,29 @@ It gets more complicated when it comes to abstract nouns, but we'll see about th
 
 
 ### Lesson 1
-der Junge  
-der Mann  
-der Apfel  
-die Frau   
+der <font color=#ffc04c>Junge</font>  
+der <font color=#ffc04c>Mann</font>  
+der <font color=#ffc04c>Apfel</font>  
+die <font color=#ffc04c>Frau</font>   
 
 
 
 ### Lesson 2
-das Mädchen = the girl
-- Ein is for masculine and neuter words. 
+das <font color=#ffc04c>Mädchen = the girl</font>   
+- Ein is for masculine and neuter words.
 e.g. Ich bin ein Kind. = I am a child.
 
-ein Kind = a kid     
-das Kind  
+ein <font color=#ffc04c>Kind</font>  = a kid  
+das <font color=#ffc04c>Kind</font> 
+
 Er ist ein Junge. = He is a boy.  
 Sie ist eine Frau.  
-Du bist ein Mann.
+Du bist ein Mann.  
 
 ### Lesson 3
-Er isst = He eats / He is eating
+Er <font color=#ffc04c>isst</font>  = He eats / He is eating
 
-- Verb: **essen**
+- Verb: <font color=#ffc04c> **essen** </font>  
 
 | Person | Present |
 | -------- | ------- |
@@ -112,7 +114,7 @@ Er isst = He eats / He is eating
 ### Lesson 4
 Sie trinkt = She is drinking
 
-- Verb: **trinken**
+- Verb: <font color=#ffc04c> **trinken** </font>  
 
 | Person | Present |
 | --------- | ----------- |
@@ -127,16 +129,16 @@ Sie trinkt = She is drinking
 die Milch = milk
 
 **_When der becomes den?_**
-- Masculine words that receive the action have special articles. 
-The man eats the apple = Der Mann isst den Apfel. 
+- Masculine words that receive the action have special articles.
+The man eats the apple = Der Mann isst den Apfel.
 
 **_When ein becomes einen? _**
 - Masculine words that receive the action have different articles than nouns that act.
-A man sees a dog = Ein Mann sieht einen Hund. 
+A man sees a dog = Ein Mann sieht einen Hund.
 
 Du bist gut. = You are good
 
-Verb: **sein**
+Verb: <font color=#ffc04c> **sein** </font>  
 
 | Person | Present |
 | --------- | ----------- |
