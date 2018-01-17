@@ -8,6 +8,16 @@ In English, the present tense can be simple or progressive (as in "I eat" or "I 
 ### WIE GEHT'S?
 
 There are many ways to ask someone how he or she is doing. Take "How are you?," "How do you do?" and "How is it going?" as examples. In German, the common phrase or idiom uses the verb "gehen" (go): "Wie geht es dir?" (How are you?).
+- Verb: <font color = #ffb732> gehen </font> = go
+
+**Person**|**Present**
+:-----:|:-----:
+ich|gehe
+du|gehst
+er/sie/es|geht
+wir|gehen
+ihr|geht
+sie/Sie|gehen
 
 ### WILLKOMMEN CAN BE A FALSE FRIEND
 
