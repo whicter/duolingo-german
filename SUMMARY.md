@@ -42,5 +42,5 @@
   * [Lesson 2](plurals.md#lesson-2)
   * [Lesson 3](plurals.md#lesson-3)
   * [Lesson 4](plurals.md#lesson-4)
-
+* [Adjectives: Predicative 1](adjectives-predicative-1.md)
 
