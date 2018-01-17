@@ -37,4 +37,10 @@
   * [Lesson 4](phrases.md#lesson-4)
   * [Lesson 5](phrases.md#lesson-5)
 * [Plurals](plurals.md)
+  * [Tips and notes](phrases.md#tips-and-notes)
+  * [Lesson 1](plurals.md#lesson-1)
+  * [Lesson 2](plurals.md#lesson-2)
+  * [Lesson 3](plurals.md#lesson-3)
+  * [Lesson 4](plurals.md#lesson-4)
+
 

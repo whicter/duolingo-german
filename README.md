@@ -3,7 +3,6 @@
 These are the notes of my duolingo German Study
 
 # Content
-* [Introduction](README.md)
 * [Basics 1](basics-1.md)
   * [Tips and notes](basics-1.md#tips-and-notes)
   * [Lesson 1](basics-1.md#lesson-1)
@@ -39,3 +38,12 @@ These are the notes of my duolingo German Study
   * [Lesson 3](phrases.md#lesson-3)
   * [Lesson 4](phrases.md#lesson-4)
   * [Lesson 5](phrases.md#lesson-5)
+* [Plurals](plurals.md)
+  * [Tips and notes](phrases.md#tips-and-notes)
+  * [Lesson 1](plurals.md#lesson-1)
+  * [Lesson 2](plurals.md#lesson-2)
+  * [Lesson 3](plurals.md#lesson-3)
+  * [Lesson 4](plurals.md#lesson-4)
+
+
+
