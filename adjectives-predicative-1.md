@@ -54,6 +54,84 @@ As you can see, the adjective remains in the base form, regardless of number and
 <font color = #ffb732> traurig </font> = sad
 
 <font color = #ffb732> lustig </font> = funny
+
+## Lesson 3
+<font color = #ffb732> neu </font> = new, clean
+
+<font color = #ffb732> normal </font> = normal, ordinary, usually    
+
+<font color = #ffb732> schlecht </font> = bad, poor    
+
+<font color = #ffb732> genau </font> = meticulous, precise
+> (It is also used as a positive response
+i.e. - It is cold today.
+- Genau!
+)
+
+<font color = #ffb732> langsam </font> = slow, gradual  
+> (not necessarily to mean "stupid" or "dumb")
+
+<font color = #ffb732> praktisch </font> = wepractical, useful, convenient
+
+<font color = #ffb732> nützlich </font> = helpful
+
+<font color = #ffb732> groß </font> = big
+
+<font color = #ffb732> klein </font> = small
+
+<font color = #ffb732> ruhig </font> = calm, quit
+
+## Lesson 4
+<font color = #ffb732> schnell </font> = fast
+
+<font color = #ffb732> möglich </font> = possible
+
+<font color = #ffb732> einfach </font> = simply, just
+> e.g. Das ist einfach gut.
+
+<font color = #ffb732> positiv </font> = positive
+
+<font color = #ffb732> richtig </font> = correct
+		  		
+<font color = #ffb732> stark   </font> = strong
+
+<font color = #ffb732> klar    </font> = clear
+
+## Lesson 5
+<font color = #ffb732> kalt           </font> = cold, chilly
+
+<font color = #ffb732> fertig         </font> = ready, finished, done
+		
+<font color = #ffb732> früh           </font> = early
+
+<font color = #ffb732> toll           </font> = amazing, great, crazy
+> e.g  Nein, du bist toll.
+		
+<font color = #ffb732> wahrscheinlich </font> = probably, likely
+
+<font color = #ffb732> rund           </font> = round, approximately
+
+<font color = #ffb732> Gemeinsam      </font> = together, mutual
+> e.g. Gemeinsam sind wir stark!
+
+<font color = #ffb732> fest           </font> = hard (physically), tight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
 		
 
 
