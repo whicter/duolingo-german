@@ -43,7 +43,7 @@ As you can see, the adjective remains in the base form, regardless of number and
 
 <font color = #ffb732> hoch </font> = tall  
 
-<font color = #ffb732> schwach </font> = weak  
+<font color = #ffb732> schwach </font> = weak, feeble
 
 <font color = #ffb732> lang </font> = long
 
