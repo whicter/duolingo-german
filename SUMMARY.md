@@ -36,4 +36,5 @@
   * [Lesson 3](phrases.md#lesson-3)
   * [Lesson 4](phrases.md#lesson-4)
   * [Lesson 5](phrases.md#lesson-5)
+* [Plurals](plurals.md)
 
