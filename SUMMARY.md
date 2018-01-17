@@ -43,4 +43,12 @@
   * [Lesson 3](plurals.md#lesson-3)
   * [Lesson 4](plurals.md#lesson-4)
 * [Adjectives: Predicative 1](adjectives-predicative-1.md)
+  * [Tips and notes](adjectives-predicative-1.md#tips-and-notes)
+  * [Lesson 1](adjectives-predicative-1.md#lesson-1)
+  * [Lesson 2](adjectives-predicative-1.md#lesson-2)
+  * [Lesson 3](adjectives-predicative-1.md#lesson-3)
+  * [Lesson 4](adjectives-predicative-1.md#lesson-4)
+  * [Lesson 5](adjectives-predicative-1.md#lesson-5)
+
+* [Negative and positive statments](negative-and-positive-statments.md)
 
