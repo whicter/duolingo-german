@@ -8,9 +8,6 @@ das Kleid means the dress, and die Kleider means the dresses, but the plural die
 
 Both Hose and Hosen translate to pants (trousers in British English), but they're not interchangeable. The singular Hose refers to one pair of pants, and the plural Hosen refers to multiple pairs of pants.
 
-<font color = #ffb732> </font>
-
-
 ## Lesson 1
 - Verb: <font color = #ffb732> tragen </font> = wear
 
