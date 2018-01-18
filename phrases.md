@@ -59,7 +59,7 @@ In German, "Willkommen" means welcome as in "Welcome to our home", but it does n
 | --------- | ----------- |
 | ich | tue |
 | du | tust |
-| er/sie/es | tut |
+| er / sie / es | tut |
 | wir | tun |
 | ihr | tut |
 | sie / Sie | tun |

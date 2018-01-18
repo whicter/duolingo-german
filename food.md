@@ -90,7 +90,7 @@ die <font color = #ffb732> Banane </font> = banana
 | --------- | ----------- |
 | ich | schmeck**e** |
 | du | schmeck**st** |
-| er/sie/es | schmeck**t** |
+| er / sie / es | schmeck**t** |
 | wir | schmeck**en** |
 | ihr | schmeck**t** |
 | sie / Sie | schmeck**n** |

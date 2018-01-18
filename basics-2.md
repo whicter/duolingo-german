@@ -70,7 +70,7 @@ das <font color = #ffb732> Buch = book </font>
 | -------- | ------- |
 | ich | les**e**
 | du | lies**t** |
-| er/sie/es | lies**t** |
+| er / sie / es | lies**t** |
 | wir | lese**n** |
 | ihr | less**t** |
 | sie / Sie | lese**n** |

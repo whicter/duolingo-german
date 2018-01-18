@@ -39,7 +39,7 @@ Verb conjugation in German is more challenging than in English. To conjugate a r
 **_trinken (to drink)_**
 
 **English person**|**ending**|**German example**
-:-----:|:-----:|:-----:
+-----|-----|-----
 I | -e | ich trink**e**
 you (singular informal)| -st | du trink**st**
 he/she/it | -t | er/sie/es trin**kt**
@@ -104,7 +104,7 @@ Er <font color = #ffb732> isst </font>   = He eats / He is eating
 | -------- | ------- |
 | ich | ess**e** |
 | du | iss**t** |
-| er/sie/es | iss**t** |
+| er / sie /es | iss**t** |
 | wir | esse**n** |
 | ihr | ess**t** |
 | sie / Sie | esse**n** |
@@ -119,7 +119,7 @@ Sie trinkt = She is drinking
 | --------- | ----------- |
 | ich | trink**e** |
 | du | trink**st** |
-| er/sie/es | trink**t** |
+| er / sie / es | trink**t** |
 | wir | trink**en** |
 | ihr | trink**t** |
 | sie / Sie | trink**en** |
@@ -143,7 +143,7 @@ Verb: <font color = #ffb732> **sein** </font>
 | --------- | ----------- |
 | ich | bin |
 | du | bist |
-| er/sie/es | ist |
+| er / sie / es | ist |
 | wir | sind |
 | ihr | seid |
 | sie / Sie | sind |

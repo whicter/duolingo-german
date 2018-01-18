@@ -30,7 +30,7 @@ das <font color = #ffb732> Pferd </font> = horse
 | --------- | ----------- |
 | ich       | fress**e**  |
 | du        | frisst      |
-| er/sie/es | frisst      |
+| er / sie / es | frisst  |
 | wir       | fress**en** |
 | ihr       | fress**t**  |
 | sie / Sie | fress**en** |
