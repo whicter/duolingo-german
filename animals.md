@@ -7,7 +7,7 @@ The most common way to express that a human being is eating something is the ver
 Fortunately, both verbs are conjugated very similarly:
 
 **essen**|**fressen (for animals)**
-:-----:|:-----:
+-----|-----
 ich esse|ich fresse
 du isst|du frisst
 er/sie/es isst|er/sie/es frisst

@@ -9,7 +9,7 @@ There's another slightly less commonly used word for the sea which is die <font 
 Be careful not to confuse der See (the lake) and die See (the sea). Keep in mind that the dative and genitive of die See (feminine - the sea) is der See. This example shows how important it is to know your noun genders and declension tables.
 
 **singular**|**der See (masculine - the lake)**|**die See (feminine - the sea)**
-:-----:|:-----:|:-----:
+----- | ----- | -----
 nominative|der See|die See
 accusative|den See|die See
 dative|dem See|der See
@@ -18,7 +18,7 @@ genitive|des Sees|der See
 The plural forms are identical.
 
 **plural**|**die Seen (masculine - the lakes)**|**die Seen (feminine - the seas)**
-:-----:|:-----:|:-----:
+----- | ----- | -----
 nominative|die Seen|die Seen
 accusative|die Seen|die Seen
 dative|den Seen|den Seen
@@ -55,24 +55,24 @@ die <font color = #ffb732> Luft </font> = air
 - Verb: <font color = #ffb732> fallen </font>
 
 **Person**|**Present**
-:-----:|:-----:
+----- | ----- 
 ich|falle
 du|fällst
-er|fällt
+er / sie / es|fällt
 wir|fallen
 ihr|fallt
-sie|fallen
+sie / Sie|fallen
 
 - Verb: <font color = #ffb732> leben </font> = live
 
 **Person**|**Present**
-:-----:|:-----:
+----- | ----- 
 ich|lebe
 du|lebst
-er|lebt
+er / sie / es|lebt
 wir|leben
 ihr|lebt
-sie|leben
+sie / Sie |leben
 
 der <font color = #ffb732> stern </font> = star (sterne)
 

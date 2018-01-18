@@ -11,12 +11,12 @@ The subject of a sentence (the one doing the action) is in the nominative case. 
 The accusative object is the thing or person that is directly receiving the action. For example, in "Der Lehrer sieht den Ball" (the teacher sees the ball), "Lehrer" is the nominative subject and "Ball" is the accusative object. Notice that the articles for accusative objects are not the same as the articles in the nominative case: "the" is "der" in the nominative case and "den" in the accusative. The following table shows how the articles change based on these two cases:
 
 **Case**|**Masculine**|**Feminine**|**Neuter**|**Plural**
-:-----:|:-----:|:-----:|:-----:|:-----:
+-----|-----|-----|-----|-----
 Nominative|der|die|das|die
 Accusative|den|die|das|die
 
 **Case**|**Masculine**|**Feminine**|**Neuter**
-:-----:|:-----:|:-----:|:-----:
+-----|-----|-----|-----
 Nominative|ein|eine|ein
 Accusative|einen|eine|ein
 

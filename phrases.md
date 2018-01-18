@@ -11,13 +11,13 @@ There are many ways to ask someone how he or she is doing. Take "How are you?," 
 - Verb: <font color = #ffb732> gehen </font> = go
 
 **Person**|**Present**
-:-----:|:-----:
+-----|-----
 ich|gehe
 du|gehst
-er/sie/es|geht
+er / sie / es|geht
 wir|gehen
 ihr|geht
-sie/Sie|gehen
+sie / Sie|gehen
 
 ### WILLKOMMEN CAN BE A FALSE FRIEND
 

@@ -12,13 +12,13 @@ Both Hose and Hosen translate to pants (trousers in British English), but they'r
 - Verb: <font color = #ffb732> tragen </font> = wear
 
 **Person**|**Present**
-:-----:|:-----:
+----- | -----
 ich|trage
 du|trägst
-er|trägt
+er / sie /es|trägt
 wir|tragen
 ihr|tragt
-sie|tragen
+sie / Sie |tragen
 
 der <font color = #ffb732> Schuhe </font> = shoe
 
@@ -46,10 +46,10 @@ die <font color = #ffb732> Hosen </font> = pairs of pants
 -----|-----
 ich|passe
 du|passt
-er|passt
+er / es / sie|passt
 wir|passen
 ihr|passt
-sie|passen
+sie / sie|passen
 
 
 der <font color = #ffb732> Ring </font> = ring (Ringe)

@@ -23,13 +23,15 @@ German feminine plurals - nouns ending in -in
 Feminine nouns that end in "-in" will need "-nen" in the plural. For example, "die Köchin" (the female cook) becomes "die Köchinnen" in its plural form.
 
 ## Lesson 1
-<font color = #ffb732> Tiere </font> = animals  
+<font color = #ffb732> Tiere </font> = animals 
+ 
 <font color = #ffb732> lecker </font> = tasty
+
 e.g.  
 Erdbeeren sind lecker.
 
 **Single**|** Plural**|**English**
-:-----:|:-----:|:-----:
+----- | ----- | -----
 die <font color = #ffb732> Kuh </font>     | Kühe     | cow
 die <font color = #ffb732> Schwein </font> | Schweine | pig
 der <font color = #ffb732> Fische </font>  | Fische   | fish
@@ -40,7 +42,7 @@ das <font color = #ffb732> Tier </font>    | Tiere    | animals
 
 ## Lesson 2
 **Single**|** Plural**|** English**
-:-----:|:-----:|:-----:
+----- | ----- | -----
 die <font color = #ffb732> Buch </font>      | Bücher     | book
 der <font color = #ffb732> Bär </font>       | Bären      | bear
 das <font color = #ffb732> Ei </font>        | Eier       | egg
@@ -53,7 +55,7 @@ die <font color = #ffb732> Zeitung </font>   | Zeitungen  | newspapaer
 
 ## Lesson 3
 **Single**|** Plural**|** English**
-:-----:|:-----:|:-----:
+----- | ----- | -----
 das <font color = #ffb732> Ente </font>     | Enten     | duck
 die <font color = #ffb732> Spinne </font>   | Spinnen   | spider
 die <font color = #ffb732> Fliege </font>   | Fliegen   | fly
@@ -67,7 +69,7 @@ die <font color = #ffb732> Erdbeere </font> | Erdbeeren | strawberry
 
 ## Lesson 4
 **Single**|** Plural**|** English**
-:-----:|:-----:|:-----:
+----- | ----- | -----
 das <font color = #ffb732> Apfel </font>    | Äpfel   | apple
 das <font color = #ffb732> Vogel </font>    | Vögel   | bird
 das <font color = #ffb732> Mädchen </font>  | Mädchen | girl
