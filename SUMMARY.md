@@ -49,6 +49,6 @@
   * [Lesson 3](adjectives-predicative-1.md#lesson-3)
   * [Lesson 4](adjectives-predicative-1.md#lesson-4)
   * [Lesson 5](adjectives-predicative-1.md#lesson-5)
-
 * [Negative and positive statments](negative-and-positive-statments.md)
+* [Questions and statements](questions-and-statements.md)
 
