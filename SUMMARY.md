@@ -53,5 +53,16 @@
 * [Questions and statements](questions-and-statements.md)
 * [Verbs: Present 1](verbs-present-1.md)
 * [Clothing](clothing.md)
+  * [Tips and notes](phrases.md#tips-and-notes)
+  * [Lesson 1](clothing.md#lesson-1)
+  * [Lesson 2](clothing.md#lesson-2)
+  * [Lesson 3](clothing.md#lesson-3)
 * [Nature 1](nature-1.md)
+  * [Tips and notes](nature-1.md#tips-and-notes)
+  * [Lesson 1](nature-1.md#lesson-1)
+  * [Lesson 2](nature-1.md#lesson-2)
+  * [Lesson 3](nature-1.md#lesson-3)
+
+
+  
 
