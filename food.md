@@ -45,7 +45,7 @@ Die Katze ist süß. (The cat is cute.)
 In German, "Gemüse" is used as a mass noun. That means it's grammatically singular and takes a singular verb.
 
 ## Lesson 1
-- **Substantiv**
+- **Substantiv**  
 der <font color = #ffb732> Tee </font> = tea  
 der <font color = #ffb732> Fisch </font> = fish  
 das <font color = #ffb732> Salz </font> = salt  
@@ -56,25 +56,25 @@ das <font color = #ffb732> Essen </font> = food
 die <font color = #ffb732> Pizza </font> = pizza  
 das <font color = #ffb732> Eis </font> = ice cream  
 
-- **Adjektiv**
+- **Adjektiv**  
 <font color = #ffb732> Hunger </font> = hungury
 
 
 ## Lesson 2
-- **Substantiv**
+- **Substantiv**  
 das <font color = #ffb732> Abendessen </font> = dinner  
 die <font color = #ffb732> Schokolade </font> = chocolate  
 das <font color = #ffb732> Obst </font> = fruit  
 das <font color = #ffb732> Gemüse </font> = vegetables  
 der <font color = #ffb732> Wein </font> = wine  
 
-- **Adjektiv**
+- **Adjektiv**  
 <font color = #ffb732> salzig </font> = salty  
 <font color = #ffb732> süß </font> = sweet  
 
 
 ## Lesson 3
-- **Substantiv**
+- **Substantiv**  
 der <font color = #ffb732> Saft </font> = juice  
 das <font color = #ffb732> Ei </font> = egg  
 die <font color = #ffb732> Orange </font> = orange  
@@ -96,7 +96,7 @@ die <font color = #ffb732> Banane </font> = banana
 | sie / Sie | schmeck**n** |
 
 ## Lesson 4
-- **Substantiv**
+- **Substantiv**  
 die <font color = #ffb732> Erdbeere </font> = strawberry  
 das <font color = #ffb732> Getränk </font> = drink / beverage  
 der <font color = #ffb732> Saft </font> = juice  
@@ -104,13 +104,13 @@ die <font color = #ffb732> Tomate </font> = tomato
 das <font color = #ffb732> Menü </font> = menu  
 das <font color = #ffb732> Frühstück </font> = breakfast  
 
-- **Adjektiv**
+- **Adjektiv**  
 <font color = #ffb732> Durst </font> = thirsty
 
 
 
 ## Lesson 5
-- **Substantiv**
+- **Substantiv**  
 der <font color = #ffb732> Zucker </font> = sugar  
 das <font color = #ffb732> Fleisch </font> = meat  
 das <font color = #ffb732> Rezept </font> = recipe  
@@ -118,12 +118,12 @@ das <font color = #ffb732> Hähnchen </font> = chicken
 der <font color = #ffb732> Apfelsaft </font> = apple juice  
 die <font color = #ffb732> Kartoffel </font> = potato  
 
-- **Adjektiv**
+- **Adjektiv**  
 <font color = #ffb732> frisch </font> = fresh  
 <font color = #ffb732> lecker </font> = delicious  
 
 ## Lesson 6
-- **Substantiv**
+- **Substantiv**  
 die <font color = #ffb732> Zitrone </font> = lemmon  
 der <font color = #ffb732> Vegetarier </font> = vegetarian  
 der <font color = #ffb732> Wein </font> = wine  
@@ -131,6 +131,6 @@ das <font color = #ffb732> Bier </font> = beer
 die <font color = #ffb732> Speisekarte </font> = menu  
 das <font color = #ffb732> Öl </font> = the oil  
 
-- **Adjektiv**
+- **Adjektiv**  
 <font color = #ffb732> Sauer </font> = sour
 
