@@ -76,28 +76,27 @@ It gets more complicated when it comes to abstract nouns, but we'll see about th
 
 
 ## Lesson 1
-der <font color = #ffb732> Junge </font>  
-der <font color = #ffb732> Mann </font>  
-der <font color = #ffb732> Apfel </font>  
-die <font color = #ffb732> Frau </font>  
+der <font color = #ffb732> Junge </font> = boy
+der <font color = #ffb732> Mann </font>  = man
+der <font color = #ffb732> Apfel </font> = apple 
+die <font color = #ffb732> Frau </font>  = woman
 
 
 
 ## Lesson 2
-das <font color = #ffb732> Mädchen = the girl </font>  
-- Ein is for masculine and neuter words.
+das <font color = #ffb732> Mädchen </font> = the girl
+- Ein is for masculine and neuter words.  
 e.g. Ich bin ein Kind. = I am a child.
 
-ein <font color = #ffb732> Kind </font>   = a kid
-das <font color = #ffb732> Kind </font>  
+das <font color = #ffb732> Kind </font>  = kid
 
 Er ist ein Junge. = He is a boy.
+
 Sie ist eine Frau.
+
 Du bist ein Mann.
 
 ## Lesson 3
-Er <font color = #ffb732> isst </font>   = He eats / He is eating
-
 - Verb: <font color = #ffb732> **essen** </font>  
 
 | Person | Present |
@@ -111,8 +110,6 @@ Er <font color = #ffb732> isst </font>   = He eats / He is eating
 
 
 ## Lesson 4
-Sie trinkt = She is drinking
-
 - Verb: <font color = #ffb732>  **trinken**  </font>  
 
 | Person | Present |
@@ -125,7 +122,7 @@ Sie trinkt = She is drinking
 | sie / Sie | trink**en** |
 
 ## Lesson 5
-die Milch = milk
+die <font color = #ffb732> Milch </font> = milk
 
 **_When der becomes den?_**
 - Masculine words that receive the action have special articles.
@@ -136,14 +133,3 @@ The man eats the apple = Der Mann isst den Apfel.
 A man sees a dog = Ein Mann sieht einen Hund.
 
 Du bist gut. = You are good
-
-Verb: <font color = #ffb732> **sein** </font>  
-
-| Person | Present |
-| --------- | ----------- |
-| ich | bin |
-| du | bist |
-| er / sie / es | ist |
-| wir | sind |
-| ihr | seid |
-| sie / Sie | sind |
