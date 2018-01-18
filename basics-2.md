@@ -49,13 +49,14 @@ e.g., Er spricht mit ihr = He is talking to her
 
 
 ## Lesson 2
-die <font color = #ffb732> Männer </font> = Plural form of Mann
-die <font color = #ffb732> Frauen </font>
+die <font color = #ffb732> Männer </font> = men
+
+die <font color = #ffb732> Frauen </font> = women
 
 The plural article die
 > Use die for the with all plural words.
 
-die <font color = #ffb732> Kinder </font>
+die <font color = #ffb732> Kinder </font> = kids
 
 _**Sie: she or they?**_
 > sie can mean both she or they. The verb ending tells you which is meant: sie lernt = she learns vs. sie lernen = they learn.
