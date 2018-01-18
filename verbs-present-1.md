@@ -4,7 +4,7 @@
 
 Verb conjugation in German is more challenging than in English. To conjugate a regular verb in the present tense, identify the invariant stem of the verb and add the ending corresponding to any of the grammatical persons, which you can simply memorize:
 
-Vert: <font color = #ffb732> machen </font> (to do/make):
+Verb: <font color = #ffb732> machen </font> (to do/make):
 
 **English person**|**ending**|**German example**
 :-----:|:-----:|:-----:
