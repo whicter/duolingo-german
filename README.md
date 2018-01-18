@@ -54,6 +54,12 @@ These are the notes of my duolingo German Study
 * [Negative and positive statments](negative-and-positive-statments.md)
 * [Questions and statements](questions-and-statements.md)
 * [Verbs: Present 1](verbs-present-1.md)
+  * [Tips and notes](verbs-present-1.md#tips-and-notes)
+  * [Lesson 1](verbs-present-1.md#lesson-1)
+  * [Lesson 2](verbs-present-1.md#lesson-2)
+  * [Lesson 3](verbs-present-1.md#lesson-3)
+  * [Lesson 4](verbs-present-1.md#lesson-4)
+
 * [Clothing](clothing.md)
   * [Tips and notes](phrases.md#tips-and-notes)
   * [Lesson 1](clothing.md#lesson-1)

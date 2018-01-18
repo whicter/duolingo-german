@@ -43,7 +43,7 @@ die <font color = #ffb732> Hosen </font> = pairs of pants
 - Verb: <font color = #ffb732> passt </font> = fits
 
 **Person**|**Present**
-:-----:|:-----:
+-----|-----
 ich|passe
 du|passt
 er|passt
@@ -63,22 +63,3 @@ der <font color = #ffb732> Knopf </font> = button, knot (Knöpfe)
 der <font color = #ffb732> Schmuck </font> = jewelry (Schmucke)
 
 der <font color = #ffb732> Flecke </font> = spots (Flecken)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
