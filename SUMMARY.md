@@ -62,4 +62,5 @@
   * [Lesson 1](nature-1.md#lesson-1)
   * [Lesson 2](nature-1.md#lesson-2)
   * [Lesson 3](nature-1.md#lesson-3)
+* [Idioms and Proverbs](idioms-and-proverbs.md)
 
