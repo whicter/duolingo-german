@@ -10,10 +10,10 @@ Fortunately, both verbs are conjugated very similarly:
 -----|-----
 ich esse|ich fresse
 du isst|du frisst
-er/sie/es isst|er/sie/es frisst
+er / sie / es isst|er/sie/es frisst
 wir essen|wir fressen
 ihr esst|ihr fresst
-sie/Sie essen|sie/Sie fressen
+sie / Sie essen|sie/Sie fressen
 
 ## Lesson 1
 die <font color= #ffb732> Katze </font> = cat  
@@ -24,7 +24,7 @@ das <font color = #ffb732> Tier </font> = animal
 der <font color = #ffb732> Hund </font> = dog  
 das <font color = #ffb732> Pferd </font> = horse 
 
-- Verb: <font color = #ffb732> **fressen**  </font>   
+- Verb: <font color = #ffb732> **fressen**  </font> = (animal) eat
 
 | Person | Present |
 | --------- | ----------- |

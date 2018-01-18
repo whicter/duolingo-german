@@ -84,7 +84,7 @@ die <font color = #ffb732> Nudeln </font> = pasta / noodle
 die <font color = #ffb732> Banane </font> = banana  
 
 
-- Verb: <font color = #ffb732> **schmecken** </font>
+- Verb: <font color = #ffb732> **_schmecken_** </font> = taste
 
 | Person | Present |
 | --------- | ----------- |
@@ -93,13 +93,12 @@ die <font color = #ffb732> Banane </font> = banana
 | er / sie / es | schmeck**t** |
 | wir | schmeck**en** |
 | ihr | schmeck**t** |
-| sie / Sie | schmeck**n** |
+| sie / Sie | schmeck**en** |
 
 ## Lesson 4
 - **Substantiv**  
 die <font color = #ffb732> Erdbeere </font> = strawberry  
 das <font color = #ffb732> Getränk </font> = drink / beverage  
-der <font color = #ffb732> Saft </font> = juice  
 die <font color = #ffb732> Tomate </font> = tomato  
 das <font color = #ffb732> Menü </font> = menu  
 das <font color = #ffb732> Frühstück </font> = breakfast  
@@ -124,7 +123,7 @@ die <font color = #ffb732> Kartoffel </font> = potato
 
 ## Lesson 6
 - **Substantiv**  
-die <font color = #ffb732> Zitrone </font> = lemmon  
+die <font color = #ffb732> Zitrone </font> /tsiˈtroːnə/ = lemmon  
 der <font color = #ffb732> Vegetarier </font> = vegetarian  
 der <font color = #ffb732> Wein </font> = wine  
 das <font color = #ffb732> Bier </font> = beer  

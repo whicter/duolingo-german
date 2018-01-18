@@ -28,6 +28,12 @@
   * [Lesson 1](animals.md#lesson-1)
   * [Lesson 2](animals.md#lesson-2)
   * [Lesson 3](animals.md#lesson-3)
+* [Plurals](plurals.md)
+  * [Tips and notes](phrases.md#tips-and-notes)
+  * [Lesson 1](plurals.md#lesson-1)
+  * [Lesson 2](plurals.md#lesson-2)
+  * [Lesson 3](plurals.md#lesson-3)
+  * [Lesson 4](plurals.md#lesson-4)
 * [Accusative Case](accusative-case.md)
 * [Phrases](phrases.md)
   * [Tips and notes](phrases.md#tips-and-notes)
@@ -36,12 +42,6 @@
   * [Lesson 3](phrases.md#lesson-3)
   * [Lesson 4](phrases.md#lesson-4)
   * [Lesson 5](phrases.md#lesson-5)
-* [Plurals](plurals.md)
-  * [Tips and notes](phrases.md#tips-and-notes)
-  * [Lesson 1](plurals.md#lesson-1)
-  * [Lesson 2](plurals.md#lesson-2)
-  * [Lesson 3](plurals.md#lesson-3)
-  * [Lesson 4](plurals.md#lesson-4)
 * [Adjectives: Predicative 1](adjectives-predicative-1.md)
   * [Tips and notes](adjectives-predicative-1.md#tips-and-notes)
   * [Lesson 1](adjectives-predicative-1.md#lesson-1)
@@ -62,7 +62,4 @@
   * [Lesson 1](nature-1.md#lesson-1)
   * [Lesson 2](nature-1.md#lesson-2)
   * [Lesson 3](nature-1.md#lesson-3)
-
-
-  
 
