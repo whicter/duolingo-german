@@ -51,4 +51,5 @@
   * [Lesson 5](adjectives-predicative-1.md#lesson-5)
 * [Negative and positive statments](negative-and-positive-statments.md)
 * [Questions and statements](questions-and-statements.md)
+* [Verbs: Present 1](verbs-present-1.md)
 
