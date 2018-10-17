@@ -1,5 +1,4 @@
-#
-# Tips and notes
+## Tips and notes
 
 ### CONJUGATING REGULAR VERBS
 
