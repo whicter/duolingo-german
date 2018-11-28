@@ -77,8 +77,11 @@ It gets more complicated when it comes to abstract nouns, but we'll see about th
 
 ## Lesson 1
 der <font color = #ffb732> Junge </font> = boy
+
 der <font color = #ffb732> Mann </font>  = man
+
 der <font color = #ffb732> Apfel </font> = apple 
+
 die <font color = #ffb732> Frau </font>  = woman
 
 
