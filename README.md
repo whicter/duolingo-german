@@ -1,6 +1,6 @@
 # Duolingo German Study Notes
 
-These are the notes of my duolingo German Study
+These are the notes of my duolingo German Study https://www.duolingo.com/learn
 
 # Content
 
@@ -66,11 +66,6 @@ These are the notes of my duolingo German Study
   * [Lesson 1](nature-1.md#lesson-1)
   * [Lesson 2](nature-1.md#lesson-2)
   * [Lesson 3](nature-1.md#lesson-3)
-
-
-
-
-
 
 
 
